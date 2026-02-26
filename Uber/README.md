@@ -24,5 +24,6 @@ It was developed to improve front-end development skills and understand real-wor
 ## ⚙️ How to Run the Project
 
 1. Clone the repository
+   
 git clone https://github.com/Bhavitha855/Uber.git
 
