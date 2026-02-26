@@ -26,5 +26,3 @@ It was developed to improve front-end development skills and understand real-wor
 1. Clone the repository
 git clone https://github.com/Bhavitha855/Uber.git
 
-
-## 📂 Project Structure
